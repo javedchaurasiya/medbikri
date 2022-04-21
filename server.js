@@ -6,7 +6,7 @@ require("dotenv").config();
 
 
 
-const PORT = process.env.PORT | 2000;
+const PORT = process.env.PORT || 2000;
 
 //connecting to my DB
 require("./config/db.js");
