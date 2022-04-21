@@ -12,6 +12,8 @@ Working Demo Link of backend : https://medbikri.herokuapp.com/
 
 Full Working Project using reactjs as frontend : https://medbikrii.netlify.app/
 
+FrontEnd Repo Link : https://github.com/javedchaurasiya/medbikriReact
+
 the frontend has some minor bugs that needs to be fixed.
 
 
